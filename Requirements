@@ -1,0 +1,7 @@
+Here are some requirements for the the successful execution od App.py
+
+Create a OPENAI_API_KEY
+
+The python packages required.
+1. openai==0.28.0
+2. streamlit==1.41.1
